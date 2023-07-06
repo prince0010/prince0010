@@ -86,7 +86,7 @@
 
   # 📊 Github & Daily Dev Stats
   
-<a href="https://app.daily.dev/prince0010"><img src= "https://github.com/prince0010/prince00101/blob/main/devcard.svg" height = "390" alt="Prince Nagac's Dev Card"/></a>
+<a href="https://app.daily.dev/prince0010"><img src= "https://github.com/prince0010/prince00101/blob/main/devcard.svg" height = "380" alt="Prince Nagac's Dev Card"/></a>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince0010&theme=radical&layout=donut)](https://github.com/prince0010/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince0010&theme=dark)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prince0010&theme=radical)](https://github.com/prince0010/github-readme-stats) 
