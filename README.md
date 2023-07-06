@@ -86,8 +86,8 @@
 
   # 📊 Github & Daily Dev Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince0010&theme=dark)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prince0010&theme=radical)](https://github.com/prince0010/github-readme-stats)  
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince0010&theme=radical&layout=donut)](https://github.com/prince0010/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prince0010&theme=dark)](https://git.io/streak-stats)  
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prince0010&theme=radical)](https://github.com/prince0010/github-readme-stats) [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince0010&theme=radical&layout=donut)](https://github.com/prince0010/github-readme-stats)
 </div>
 
 
