@@ -11,7 +11,7 @@
  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Prince Nagac  
 </h1>
  
- `I'm Prince Nagac, a 22-years old Front-End Web Developer based in Cagayan De Oro City. A College Student at Liceo De Cagayan University. I am highly passionate about creating and implementing/building websites that line with my Technology Stack. With a 6 years total of experience in programming, I have proven my skills and abilities with the personal projects that I created and as well as to my clients since I do some freelancing in designing websites (UI/UX) and converting/implement those designs as a fully functional website.`
+ `I'm Prince Nagac, a 22-years old Front-End Web Developer based in Cagayan De Oro City. A College Student at Liceo De Cagayan University. With a 6 years total of experience in programming, I have proven my abilities and my skills with the personal projects and commissions that I created and as well as to my clients since I do some freelancing in designing websites (UI/UX) and to convert-implement those designs as a fully functional website. I am flexible and passionate about creating and implementing-building websites that line with my Technology Stack. Ever since highschool I got into environment that is full of multi-tasking jobs and stuff that results of who I am today. I am a type of person that who loves learning Vanilla Javascript, ReactJS, Typescript and mostly on MERN Stack.`
 </div>
 
 
