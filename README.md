@@ -11,7 +11,7 @@
  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Prince Nagac  
 </h2>
  
- <samp> `I'm Prince Nagac, I'm a self-taught Front-End Web Developer based in Cagayan De Oro City. A College Student at Liceo De Cagayan University. With a 6 years total of experience in programming, I have proven my abilities and my skills with the personal projects and commissions that I created and as well as to my clients since I do some freelancing in designing websites (UI/UX) and to convert-implement those designs as a fully functional website. I am flexible and passionate about creating and implementing-building websites that line with my Technology Stack. I love writing Vanilla Javascript, ReactJS, Typescript and mostly on MERN Stack.`   </samp>
+ <samp> `I'm Prince Nagac, I'm a self-taught Front-End Web Developer based in Cagayan De Oro City. With a 6 years total of experience in programming, I have proven my abilities and my skills with the personal projects and commissions that I created and as well as to my clients since I do some freelancing in designing websites (UI/UX) and to convert-implement those designs as a fully functional website. I am flexible and passionate about creating and implementing-building websites that line with my Technology Stack. I love writing Vanilla Javascript, ReactJS, Typescript and mostly on MERN Stack.`   </samp>
  
 </div>
 
