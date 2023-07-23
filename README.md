@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
        </a>
       <a target="_blank" href="https://discord.com/channels/@me/986934249670180894">
-  <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
        </a>
   <a target = "_blank" href ="https://www.instagram.com/pandaaa4021/" >
   <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
