@@ -89,6 +89,8 @@
 
 <!--Github Stats -->
 
+<!-- Devcard SVG-->
+<!-- <a href="https://app.daily.dev/prince0010"><img src="https://github.com/prince0010/prince0010/blob/main/devcard.svg" width="400" alt="Prince Nagac's Dev Card"/></a> ->
 
   ## 📊 Github & Daily Dev Stats
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=prince0010&theme=radical)](https://github.com/prince0010/github-readme-stats)  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince0010&theme=radical&layout=donut)](https://github.com/prince0010/github-readme-stats) --> 
