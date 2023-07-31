@@ -18,7 +18,7 @@
 
 <!--  *** -->
  
- <h3 align = "center" > :mailbox: Reach me on :</h5>
+ <h3 align = "center" > :mailbox: Reach me on :</h3>
  <div id="badges" align="center">
    <a target="_blank" href="mailto:princenagac12@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
