@@ -11,7 +11,7 @@
  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Prince Nagac  
 </h2>
  
-`I'm Prince Nagac. I'm a self-taught Front-End Web Developer and now year 2024 Learning Laravel Framework and who lives in Cagayan De Oro City. With a 6 years total of experience in programming, I keep enhancing my programming skills as well as creating websites. I did some freelancing in designing websites and UI/UX and to implement those designs as a fully functional website and crafted a personal projects and commissions as well that which helps me to proven my skills and my abilities to my clients. I am flexible and passionate about creating and implementing/building websites that line with the Technology Stack that I currently learned. I love writing Vanilla Javascript, ReactJS, Typescript and mostly on MERN Stack.` 
+`I'm Prince Nagac. I'm a self-taught Front-End Web Developer and now year 2024 Learning Laravel Framework and who lives in Cagayan De Oro City. With a 3 to 4 years total of experience in programming, I keep enhancing my programming skills as well as creating websites. I did some freelancing in designing websites and UI/UX and to implement those designs as a fully functional website and crafted a personal projects and commissions as well that which helps me to proven my skills and my abilities to my clients. I am flexible and passionate about creating and implementing/building websites that line with the Technology Stack that I currently learned. I love writing Vanilla Javascript, ReactJS, Typescript and mostly on MERN Stack.` 
  
 </div>
 
