@@ -92,7 +92,7 @@
   ## 📊 Github & Daily Dev Stats
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=prince0010&theme=radical)](https://github.com/prince0010/github-readme-stats)  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince0010&theme=radical&layout=donut)](https://github.com/prince0010/github-readme-stats) --> 
 
-| <a href=" https://github.com/prince0010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince0010&show_icons=true&theme=radical&hide_border=true" alt="PRINCE'S github stats" /></a> | <a href="https://github.com/prince0010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince0010&show_icons=true&theme=radical&hide_border=true&layout=compact" /></a> |
+| <a href=" https://github.com/prince0010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince0010&show_icons=true&count_private=true&theme=radical&include_all_commits=true&token=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" alt="PRINCE'S github stats" /></a> | <a href="https://github.com/prince0010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince0010&show_icons=true&theme=radical&hide_border=true&layout=compact" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
