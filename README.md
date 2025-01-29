@@ -106,8 +106,9 @@
    <img align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=prince0010&repo=todo-list&theme=radical" /> 
 </a>
 
-
-
+<a href = "https://github.com/prince0010/github-readme-activity-graph"> 
+   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=prince0010&theme=xcode&hide_hide_border=true" alt="Activity graph">
+</a>
 </div>
 
 
