@@ -16,8 +16,8 @@
 
  -->
 
-Frontend Developer | React & React Native  
-Focused on UI/UX Design, Responsive Design, and API Integration  
+Frontend Developer | React & React Native <br>
+<i>Focused on UI/UX Design, Responsive Design, and API Integration  </i>
 
 Currently exploring:
 System Design & Scalable Architectures
