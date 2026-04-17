@@ -8,19 +8,20 @@
    <img src="https://github.com/prince0010/prince0010/blob/main/devcard.svg" width="185" alt="Prince Nagac's Dev Card"/>
 </div>
 <div align = "center"> 
-<h2>
+<h2 >
  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Prince Nagac  
 </h2>
  
 <!--  `I'm a self-taught and proactive software engineer with a Bachelor's degree in Information Technology from Liceo De Cagayan University and nearly 4 years of experience. I thrive on embracing new technologies and industry trends, I keep enhancing my programming skills as well as creating websites. I did some freelancing in designing websites and UI/UX and to implement those designs as a fully functional website and crafted a personal projects and commissions as well that which helps me to proven my skills and my abilities to my clients. I am flexible and passionate about creating and implementing/building websites that line with the Technology Stack that I currently learned. I love writing Vanilla Javascript, ReactJS, Typescript and mostly on MERN Stack.` 
 
  -->
+
 Frontend Developer | React & React Native  
 Focused on UI/UX Design, Responsive Design, and API Integration  
 
 Currently exploring:
-- System Design & Scalable Architectures
-- Event-Based Architecture
+System Design & Scalable Architectures
+Event-Based Architecture
 </div>
 
 
